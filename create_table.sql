@@ -22,4 +22,4 @@ CREATE TABLE students (
   
  -- show table describe
  desc table_name;
-  hello
+hi
